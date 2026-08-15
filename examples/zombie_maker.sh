@@ -17,4 +17,4 @@ echo "Process table inside container:"
 ps -ef
 
 echo "Sleeping to allow external inspection..."
-sleep 60
+sleep 10
